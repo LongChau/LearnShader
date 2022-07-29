@@ -1,0 +1,4 @@
+repository "TestShader@longchau1210@cloud"
+  path "/"
+    br "/main"
+    co "/main"
